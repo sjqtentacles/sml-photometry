@@ -1,5 +1,7 @@
 # sml-photometry
 
+[![CI](https://github.com/sjqtentacles/sml-photometry/actions/workflows/ci.yml/badge.svg)](https://github.com/sjqtentacles/sml-photometry/actions/workflows/ci.yml)
+
 Zero-dependency Standard ML library for photometric and astronomical brightness calculations.
 
 ## API
